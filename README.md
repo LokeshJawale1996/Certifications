@@ -7,3 +7,5 @@ collection of udemy certifications
 - [SQL for Beginners: Learn SQL using MySQL and Database Design](./mysql-basic.pdf)
 - [The Complete Sass & SCSS Course: From Beginner to Advanced](./sass-cert.pdf)
 - [Linux Command Line Basics](./linux-basic-cert.pdf)
+- [Complete React Hooks Course 2021: A - Z ( Scratch to React )](./react-hooks.pdf)
+- [Introduction to TypeScript Development](./typeScript.pdf)
