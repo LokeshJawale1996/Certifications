@@ -12,4 +12,4 @@ collection of udemy certifications
 | 07  |     Tailwind CSS From Scratch Learn By Building Projects     | [Pdf](./tailwind.pdf)  |
 | 08  |     The Complete Sass & SCSS Course: From Beginner to Advanced    | [Pdf](./sass-cert.pdf)  |
 | 09  |     Linux Command Line Basics     | [Pdf](./linux-basic-cert.pdf)  |
-| 10  |     Pre Frontend Track L1         |[pdf](./Pre-Frontend-TrackL1.pdf) |
+| 10  |     Pre Frontend Track L1         |[pdf](./Pre_Frontend_Track_L1.pdf) |
